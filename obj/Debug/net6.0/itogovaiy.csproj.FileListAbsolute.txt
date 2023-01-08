@@ -1,0 +1,15 @@
+/home/oem/Desktop/itogovaiy/bin/Debug/net6.0/itogovaiy
+/home/oem/Desktop/itogovaiy/bin/Debug/net6.0/itogovaiy.deps.json
+/home/oem/Desktop/itogovaiy/bin/Debug/net6.0/itogovaiy.runtimeconfig.json
+/home/oem/Desktop/itogovaiy/bin/Debug/net6.0/itogovaiy.dll
+/home/oem/Desktop/itogovaiy/bin/Debug/net6.0/ref/itogovaiy.dll
+/home/oem/Desktop/itogovaiy/bin/Debug/net6.0/itogovaiy.pdb
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.csproj.AssemblyReference.cache
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.AssemblyInfoInputs.cache
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.AssemblyInfo.cs
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.csproj.CoreCompileInputs.cache
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.dll
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/ref/itogovaiy.dll
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.pdb
+/home/oem/Desktop/itogovaiy/obj/Debug/net6.0/itogovaiy.genruntimeconfig.cache
